@@ -11,7 +11,7 @@ Para realizar a análise comparativa, seguimos as etapas descritas abaixo:
 
 - **Importação das bibliotecas necessárias**: Utiliei bibliotecas como ```pandas```, ```numpy```, ```matplotlib```, ```seaborn``` para manipulação e visualização de dados, além de bibliotecas de NLP e modelagem preditiva.
 
-- **Carregamento dos dados**: Importamos os arquivos ```feedback_junho2024.csv``` e ```feedback_julho2024.csv```, adicionando uma coluna para   identificar o mês correspondente.
+- **Carregamento dos dados**: Importei os arquivos ```feedback_junho2024.csv``` e ```feedback_julho2024.csv```, adicionando uma coluna para   identificar o mês correspondente.
 
 - **Pré-processamento:**
 
@@ -23,11 +23,11 @@ Para realizar a análise comparativa, seguimos as etapas descritas abaixo:
 ### 2. Análise de Sentimentos
 - **Análise de comentários adicionais**: Apliquei técnicas de Processamento de Linguagem Natural (NLP) para analisar os comentários adicionais fornecidos pelos membros.
 
-- **Classificação dos sentimentos**: Utilizamos o ```pysentimiento``` para classificar os comentários em positivo, negativo ou neutro.
+- **Classificação dos sentimentos**: Utilizei o ```pysentimiento``` para classificar os comentários em positivo, negativo ou neutro.
 
 ### 3. Modelagem Preditiva
 
-- **Codificação de variáveis categóricas**: Transformamos variáveis categóricas em numéricas utilizando ```LabelEncoder```.
+- **Codificação de variáveis categóricas**: Transformei variáveis categóricas em numéricas utilizando ```LabelEncoder```.
 
 - **Criação de novas features:**
 
@@ -39,9 +39,9 @@ Para realizar a análise comparativa, seguimos as etapas descritas abaixo:
 - **Treinamento de modelos**: Utilizei o algoritmo Random Forest para prever o risco de desengajamento.
 
 ### 4. Análise de Correlação e Clusterização
-- **Matriz de correlação**: Calculamos a correlação entre as variáveis para identificar relações significativas.
+- **Matriz de correlação**: Calculei a correlação entre as variáveis para identificar relações significativas.
 
-- **Clusterização (K-Means)**: Segmentamos os membros em clusters com características semelhantes para identificar grupos distintos dentro da comunidade.
+- **Clusterização (K-Means)**: Segmentei os membros em clusters com características semelhantes para identificar grupos distintos dentro da comunidade.
 
 ### 5. Visualização dos Dados
 Criei diversos gráficos (barras, dispersão, boxplots, heatmaps) para facilitar a interpretação dos dados e evidenciar padrões relevantes.
