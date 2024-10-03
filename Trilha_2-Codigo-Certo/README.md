@@ -194,8 +194,11 @@ Julho	0.934200
 **Reavaliar a Estratégia de Workshops**: Considerar novas abordagens para que a participação em workshops tenha um impacto mais significativo.
 
 ## 7. Ações Futuras
+
 **Coleta Contínua de Dados**: Manter o monitoramento regular para identificar tendências e mudanças.
+
 **Análise Qualitativa**: Realizar uma análise aprofundada dos comentários para entender contextos e nuances.
+
 **Customização de Intervenções**: Desenvolver ações direcionadas aos grupos identificados nos clusters, focando nas necessidades específicas.
 
 ## Referências
