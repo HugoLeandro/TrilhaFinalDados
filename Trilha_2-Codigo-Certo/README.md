@@ -9,7 +9,7 @@ Para realizar a análise comparativa, seguimos as etapas descritas abaixo:
 
 ### 1. Coleta e Preparação dos Dados
 
-- **Importação das bibliotecas necessárias**: Utilizamos bibliotecas como ```pandas```, ```numpy```, ```matplotlib```, ```seaborn``` para manipulação e visualização de dados, além de bibliotecas de NLP e modelagem preditiva.
+- **Importação das bibliotecas necessárias**: Utiliei bibliotecas como ```pandas```, ```numpy```, ```matplotlib```, ```seaborn``` para manipulação e visualização de dados, além de bibliotecas de NLP e modelagem preditiva.
 
 - **Carregamento dos dados**: Importamos os arquivos ```feedback_junho2024.csv``` e ```feedback_julho2024.csv```, adicionando uma coluna para   identificar o mês correspondente.
 
