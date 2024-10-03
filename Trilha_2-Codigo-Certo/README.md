@@ -224,7 +224,5 @@ Engenharia de Features
 
 Gostaria de expressar meus sinceros agradecimentos a todos os membros da comunidade Código Certo Coders pela oportunidade de participar desta incrível jornada. A conclusão da Trilha Inicial é apenas o começo de uma trajetória cheia de aprendizados e descobertas.
 
-O projeto desenvolvido para a Trilha Final busca realizar uma análise detalhada dos dados coletados nas pesquisas de satisfação realizadas em junho e julho de 2024. Com o uso da ciência de dados, pretendemos extrair insights valiosos que vão nos ajudar a moldar o futuro da comunidade, atendendo melhor às expectativas e necessidades de cada um.
-
-Este trabalho só é possível graças ao apoio e participação de cada um de vocês. Obrigado por se engajarem e compartilharem seus feedbacks. Juntos, estamos construindo um espaço de aprendizado e colaboração que cresce a cada dia. Que este seja apenas o início de grandes conquistas!
+O projeto desenvolvido para a Trilha Final busca realizar uma análise detalhada dos dados coletados nas pesquisas de satisfação realizadas em junho e julho de 2024.
 
